@@ -12,8 +12,7 @@ This Pharmacy Management System is a web-based application developed with Django
 ## Technology Stack
 - **Backend**: Django
 - **Database**: SQLite
-- **Frontend**: Django Templates
-
+- **Frontend**: Django Template
 ## Getting Started
 
 ### Prerequisites
